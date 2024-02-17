@@ -1,0 +1,38 @@
+.socka-gang {
+    overflow: hidden;
+    width: 100%;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Blank River";
+    color: white;
+    font-size: 800%;
+    text-align: center;
+    size: auto;
+    filter: drop-shadow(0 0 1rem #250000aa);
+  }
+
+  @media screen and (max-width: 1240px) {
+    .socka-gang {
+        font-size: 400%; /* Adjust the font size for smaller screens */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .socka-gang {
+        font-size: 200%; /* Further adjust font size for even smaller screens */
+    }
+}
+  
+  .show {
+    opacity: 1;
+    transition: opacity 3s ease;
+    z-index: 9999;
+  }
+
+  @font-face {
+    font-family: "Blank River";
+    src: url(./fonts/BlankRiver.ttf) format('truetype');
+    font-style: normal;
+  }
