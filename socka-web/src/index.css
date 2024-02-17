@@ -55,7 +55,7 @@
 }
 
 .img-txt {
-  font-family: "Blank River";
+  font-family: "Protest Revolution";
   font-size: 1.5rem;
   background-color: #cc1818;
   color: white;
@@ -65,23 +65,27 @@
 }
 
 .h3 {
-  font-family: "Blank River";
+  font-family: "Protest Revolution";
   letter-spacing: 3px;
   font: 1.3rem;
   text-align: center;
 }
 
 .text-box {
-  font-family: "Blank River";
+  font-family: "Protest Revolution";
   text-align: center;
   padding: 3rem 1rem;
   text-align: justify;
 }
 
-@font-face {
-  font-family: "Blank River";
-  src: url(./fonts/BlankRiver.ttf) format('truetype');
+.protest-revolution-regular {
+  font-family: "Protest Revolution", sans-serif;
+  font-weight: 400;
   font-style: normal;
+}
+
+@font-face {
+  font-family: "Protest Revolution";
 }
 
 .header {
@@ -122,7 +126,7 @@ a {
 .header .nav-item {
   padding: 1 rem;
   font-weight: 500;
-  font-family: "Blank River";
+  font-family: "Protest Revolution";
 }
 
 .header .nav-item a:hover{

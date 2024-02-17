@@ -5,7 +5,7 @@
     top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: "Blank River";
+    font-family: "Protest Revolution";
     color: white;
     font-size: 800%;
     text-align: center;
@@ -32,7 +32,5 @@
   }
 
   @font-face {
-    font-family: "Blank River";
-    src: url(./fonts/BlankRiver.ttf) format('truetype');
-    font-style: normal;
+    font-family: "Protest Revolution";
   }
