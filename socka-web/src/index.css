@@ -55,7 +55,7 @@
 }
 
 .img-txt {
-  font-family: "Protest Revolution";
+  font-family: "Bebas Neue";
   font-size: 1.5rem;
   background-color: #cc1818;
   color: white;
@@ -65,14 +65,14 @@
 }
 
 .h3 {
-  font-family: "Protest Revolution";
+  font-family: "Bebas Neue";
   letter-spacing: 3px;
   font: 1.3rem;
   text-align: center;
 }
 
 .text-box {
-  font-family: "Protest Revolution";
+  font-family: "Bebas Neue";
   text-align: center;
   padding: 3rem 1rem;
   text-align: justify;
@@ -84,8 +84,10 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: "Protest Revolution";
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .header {
@@ -126,7 +128,7 @@ a {
 .header .nav-item {
   padding: 1 rem;
   font-weight: 500;
-  font-family: "Protest Revolution";
+  font-family: "Bebas Neue";
 }
 
 .header .nav-item a:hover{

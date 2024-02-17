@@ -5,7 +5,7 @@
     top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: "Protest Revolution";
+    font-family: "Bebas Neue";
     color: white;
     font-size: 800%;
     text-align: center;
@@ -32,5 +32,5 @@
   }
 
   @font-face {
-    font-family: "Protest Revolution";
+    font-family: "Bebas Neue";
   }
